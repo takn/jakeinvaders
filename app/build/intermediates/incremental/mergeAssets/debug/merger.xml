@@ -117,6 +117,9 @@
             <file
                 name="touch.png"
                 path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/touch.png" />
+            <file
+                name="invader00.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/invader00.png" />
         </source>
     </dataSet>
     <dataSet config="debug" >
