@@ -79,7 +79,7 @@ public class LoadingScreen extends Screen
 	  assets.setScoreSpr(g.newPixmap("scoreSpr.png", PixmapFormat.ARG8888));
 	  assets.setLivesSpr(g.newPixmap("livesSpr.png", PixmapFormat.ARG8888));
 	  assets.setTopBar(g.newPixmap("topBar.png", PixmapFormat.RGB565));
-	  assets.setPlayerExplosion(g.newPixmap("player_explode.png", PixmapFormat.ARG8888));
+	  assets.setPlayerExplosion(g.newPixmap("player-explode.png", PixmapFormat.ARG8888));
 	  assets.setMembrane(g.newPixmap("membrane.png", PixmapFormat.ARG8888));
 	  assets.setResumeButton(g.newPixmap("resume.png", PixmapFormat.RGB565));
 	  assets.setGameOver(g.newPixmap("gameOver.png", PixmapFormat.RGB565));

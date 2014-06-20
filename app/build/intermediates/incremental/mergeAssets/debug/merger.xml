@@ -85,9 +85,6 @@
                 name="player.png"
                 path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/player.png" />
             <file
-                name="player_explode.png"
-                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/player_explode.png" />
-            <file
                 name="playerDeath.wav"
                 path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/playerDeath.wav" />
             <file
@@ -120,6 +117,9 @@
             <file
                 name="invader00.png"
                 path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/invader00.png" />
+            <file
+                name="player-explode.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/player-explode.png" />
         </source>
     </dataSet>
     <dataSet config="debug" >
