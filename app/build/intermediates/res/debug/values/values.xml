@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">Space_Invaders_Team_Yes</string>
+    <string name="hello">Hello World, Space_Invaders_Team_YesActivity!</string>
+
+</resources>

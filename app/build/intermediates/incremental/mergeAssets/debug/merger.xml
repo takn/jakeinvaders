@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets" >
+            <file
+                name="back_button.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/back_button.png" />
+            <file
+                name="background.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/background.png" />
+            <file
+                name="bulletDown.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/bulletDown.png" />
+            <file
+                name="bulletUp.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/bulletUp.png" />
+            <file
+                name="click.ogg"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/click.ogg" />
+            <file
+                name="cross.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/cross.png" />
+            <file
+                name="explosion.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/explosion.png" />
+            <file
+                name="gameOver.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/gameOver.png" />
+            <file
+                name="highScoreButton.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/highScoreButton.png" />
+            <file
+                name="highScoreTitle.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/highScoreTitle.png" />
+            <file
+                name="invader0.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/invader0.png" />
+            <file
+                name="invader1.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/invader1.png" />
+            <file
+                name="invader2.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/invader2.png" />
+            <file
+                name="invaderDeath.wav"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/invaderDeath.wav" />
+            <file
+                name="invaderMove.wav"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/invaderMove.wav" />
+            <file
+                name="livesSpr.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/livesSpr.png" />
+            <file
+                name="mainmenu_button.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/mainmenu_button.png" />
+            <file
+                name="membrane.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/membrane.png" />
+            <file
+                name="mothership.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/mothership.png" />
+            <file
+                name="numbers.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/numbers.png" />
+            <file
+                name="obstacle_block.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/obstacle_block.png" />
+            <file
+                name="obstacle_corner.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/obstacle_corner.png" />
+            <file
+                name="obstacle_corner_R.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/obstacle_corner_R.png" />
+            <file
+                name="options_button.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/options_button.png" />
+            <file
+                name="pause.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/pause.png" />
+            <file
+                name="paused.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/paused.png" />
+            <file
+                name="player.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/player.png" />
+            <file
+                name="player_explode.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/player_explode.png" />
+            <file
+                name="playerDeath.wav"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/playerDeath.wav" />
+            <file
+                name="quit.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/quit.png" />
+            <file
+                name="resume.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/resume.png" />
+            <file
+                name="scoreSpr.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/scoreSpr.png" />
+            <file
+                name="shoot.wav"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/shoot.wav" />
+            <file
+                name="start.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/start.png" />
+            <file
+                name="tick.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/tick.png" />
+            <file
+                name="title_screen.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/title_screen.png" />
+            <file
+                name="topBar.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/topBar.png" />
+            <file
+                name="touch.png"
+                path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/main/assets/touch.png" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/nelsonramirez/AndroidstudioProjects/SpaceInvaders-master/app/src/debug/assets" />
+    </dataSet>
+
+</merger>
