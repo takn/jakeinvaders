@@ -11,7 +11,8 @@ android:
     - sysimg-19
     - extra-android-support
   licenses:
-    - android-sdk-license-5be876d5 # new license!
+    - /android-sdk-license-[0-9a-f]{8}/
+    #- android-sdk-license-5be876d5 # new license!
     - '.*intel.+'
 
 #  components:
